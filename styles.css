@@ -1,0 +1,38 @@
+body {
+  background-color: #4d4d4d;
+}
+
+h1{
+  margin: 20px 5px 5px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #4ECCA3;
+}
+
+h2{
+  visibility: hidden;
+  color: #4ECCA3;
+  font-size: 2rem;
+}
+
+h3{
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+}
+
+.main{
+  margin: auto;
+  text-align: center;
+}
+
+.diceimage{
+  height: 12rem;
+  width: 12rem;
+}
+
+.dicebox {
+  text-align: center;
+  display: inline-block;
+  margin: 40px;
+}
